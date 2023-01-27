@@ -1,2 +1,2 @@
-# project-3-javascript
-Project membuat website sederhana menggunakan javascript
+# practice-javascript
+My first javascript project.
